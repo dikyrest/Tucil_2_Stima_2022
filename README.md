@@ -14,7 +14,7 @@ Modul `myConvexHull` ini dibuat untuk memenuhi tugas mata kuliah IF 2211 Strateg
 Tidak diperlukan karena Python adalah _interpreted language_
 
 ## **Cara Menggunakan**
-Buka file `myConvexHull.ipynb` dan jalankan semua block
+Buka file `myConvexHull.ipynb` dan jalankan semua block \
 Fungsi utama yang digunakan untuk mencari kumpulan titik pembentuk convex hull pada program ini adalah `ConvexHull(points)` \
 input: array berukuran nx2 dengan n = jumlah titik. \
 output: array berukuran mx2 dengan m = jumlah titik pembentuk _convex hull_, diurutkan secara melingkar berlawanan arah jarum jam.
