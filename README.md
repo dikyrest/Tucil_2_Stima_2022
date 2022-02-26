@@ -15,11 +15,11 @@ Tidak diperlukan karena Python adalah _interpreted language_
 
 ## **Cara Menggunakan**
 Buka file `myConvexHull.ipynb` dan jalankan semua block
-Fungsi utama yang digunakan untuk mencari kumpulan titik pembentuk convex hull pada program ini adalah `ConvexHull(points)`
-input: array berukuran nx2 dengan n = jumlah titik. 
+Fungsi utama yang digunakan untuk mencari kumpulan titik pembentuk convex hull pada program ini adalah `ConvexHull(points)` \
+input: array berukuran nx2 dengan n = jumlah titik. \
 output: array berukuran mx2 dengan m = jumlah titik pembentuk _convex hull_, diurutkan secara melingkar berlawanan arah jarum jam.
 
 ## **Author**
-Nama: Diky Restu Maulana
-NIM: 13520017
+Nama: Diky Restu Maulana \
+NIM: 13520017 \
 Prodi: Teknik Informatika
